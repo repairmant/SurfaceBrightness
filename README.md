@@ -13,3 +13,8 @@ Future goals:
 -Work out the bugs in the script
 -Hide Cmd prompt that keeps popping up/flashing
 -option to switch brightness trigger to double tapping volume keys
+
+#Requirments
+SurfaceBrightness.exe -OR- SurfaceBrightness.ahk
+
+brightness.exe
